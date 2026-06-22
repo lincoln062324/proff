@@ -56,7 +56,7 @@ export const roles = [
 
 // ── About Meta ────────────────────────────────────────────
 export const aboutMeta = [
-  { label: "Program",    value: "BS Information Technology" },
+  { label: "Program",    value: "BS Information Technology - IM" },
   { label: "School", value: "Bestlink College of the Philippines" },
   { label: "Year Level", value: "4th Year · 1st Semester" },
 ];
