@@ -150,6 +150,18 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.hero-photo:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 5px 60px var(--accent);
+  border-color: var(--accent-dim);
+}
+
+.hero-photo-img--hover {
+  border-color: var(--accent);
+  transition: border-color 0.2s;
 }
 
 .hero-photo-img {

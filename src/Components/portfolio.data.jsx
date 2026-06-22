@@ -24,6 +24,14 @@ export const projects = [
     status: "Completed",
     link: "#",
   },
+  {
+    id: 4,
+    title: "Fiduciom",
+    tech: ["Java", "MySQL Workbench"],
+    desc: "An E-Banking system that could manage the users' accounts, track transactions, and generate receipts.",
+    status: "Completed",
+    link: "#",
+  },
 ];
 
 // ── Skills ────────────────────────────────────────────────
