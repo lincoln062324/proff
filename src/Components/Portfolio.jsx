@@ -197,6 +197,12 @@ export default function Portfolio() {
         <p className="footer-copy">
           © 2026 <span>Christian Mamaril</span> · Built with React
         </p>
+        <p className="footer-copy">
+          <span> Contact: </span> 09859175171
+        </p>
+        <p className="footer-copy">
+          <span>Gmail: </span> ChristianMamaril003@gmail.com
+        </p>
         <div className="socials">
           {socials.map((social) => (
             <a
