@@ -38,8 +38,8 @@ export const projects = [
 export const skills = [
   { category: "Frontend", items: ["React", "TypeScript", "Tailwind CSS", "HTML", "CSS"] },
   { category: "Backend",  items: ["PHP", "Java", "Javascript"] },
-  { category: "Database", items: ["MySQL", "Supabase"] },
-  { category: "Tools",    items: ["Git", "Figma", "VSCode", "Netbeans", "Photoshop"] },
+  { category: "Database", items: ["MySQL Workbench", "Supabase"] },
+  { category: "Tools",    items: ["Git", "Github", "Figma", "VSCode", "Netbeans", "Supabase", "MySQL Workbench", "Photoshop"] },
 ];
 
 // ── Roles ─────────────────────────────────────────────────
