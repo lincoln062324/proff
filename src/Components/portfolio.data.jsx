@@ -37,9 +37,9 @@ export const projects = [
 // ── Skills ────────────────────────────────────────────────
 export const skills = [
   { category: "Frontend", items: ["React", "TypeScript", "Tailwind CSS", "HTML", "CSS"] },
-  { category: "Backend",  items: ["Node.js", "PHP", "Java", "Javascript"] },
+  { category: "Backend",  items: ["PHP", "Java", "Javascript"] },
   { category: "Database", items: ["MySQL", "Supabase"] },
-  { category: "Tools",    items: ["Git", "Figma", "VS Code", "Java", "Photoshop"] },
+  { category: "Tools",    items: ["Git", "Figma", "VSCode", "Netbeans", "Photoshop"] },
 ];
 
 // ── Roles ─────────────────────────────────────────────────

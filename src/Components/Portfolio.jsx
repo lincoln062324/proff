@@ -195,10 +195,10 @@ export default function Portfolio() {
       {/* ── Footer ───────────────────────────────────────── */}
       <footer>
         <p className="footer-copy">
-          © 2026 <span>Christian Mamaril</span> · Built with React
+          © 2026 <span>Christian Mamaril</span> - Portfolio
         </p>
         <p className="footer-copy">
-          <span> Contact: </span> 09859175171
+          <span> Contact #: </span> +639859175171
         </p>
         <p className="footer-copy">
           <span>Gmail: </span> ChristianMamaril003@gmail.com
